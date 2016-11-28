@@ -1,0 +1,20 @@
+{
+  "name": "SalesforceNotifier-ElectronV0.1",
+  "version": "1.0.0",
+  "description": "This is a notification app for Salesforce",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Rohan Gore",
+  "license": "ISC",
+  "repository": "soon to come",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.5",
+    "node-notifier": "^4.6.1"
+  },
+  "dependencies": {
+    "jsforce": "^1.7.1"
+  }
+}
